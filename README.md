@@ -12,4 +12,4 @@
 
 - [x] [实现一个数组扁平化函数 flattenDepth](https://github.com/Tcdian/keep/issues/1)
 - [ ] [实现一个防抖函数 debounce](https://github.com/Tcdian/keep/issues/3)
-- [ ] [实现一个发布订阅 eventEmitter](https://github.com/Tcdian/keep/issues/4)
+- [x] [实现一个发布订阅 eventEmitter](https://github.com/Tcdian/keep/issues/4)
