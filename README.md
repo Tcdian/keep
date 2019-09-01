@@ -6,7 +6,7 @@
 
 - [ ] [实现一个表单辅助工具Field](https://github.com/Tcdian/keep/issues/12)
 - [x] [95. Unique Binary Search Trees II](https://github.com/Tcdian/keep/issues/13)
-- [ ] [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Tcdian/keep/issues/14)
+- [x] [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Tcdian/keep/issues/14)
 
 ### 20190818 - 20190824
 
