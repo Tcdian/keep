@@ -2,6 +2,12 @@
 
 ## 今天不想做，所以才去做。
 
+### 20190902 - 20190908
+
+- [x] [114. Flatten Binary Tree to Linked List](https://github.com/Tcdian/keep/issues/15)
+- [ ] [72. Edit Distance](https://github.com/Tcdian/keep/issues/16)
+- [x] [198. House Robber](https://github.com/Tcdian/keep/issues/17)
+
 ### 20190825 - 20190901
 
 - [ ] [实现一个表单辅助工具Field](https://github.com/Tcdian/keep/issues/12)
