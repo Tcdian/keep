@@ -2,6 +2,18 @@
 
 ## 今天不想做，所以才去做。
 
+### 20190916 - 20190929
+
+- [x] [53. Maximum Subarray](https://github.com/Tcdian/keep/issues/21)
+- [x] [实现一个 partial 函数](https://github.com/Tcdian/keep/issues/23)
+- [x] [实现一个 tap 函数](https://github.com/Tcdian/keep/issues/24)
+
+### 20190909 - 20190915
+
+- [x] [实现一个 compose 函数](https://github.com/Tcdian/keep/issues/18)
+- [x] [实现一个 curry 函数](https://github.com/Tcdian/keep/issues/19)
+- [x] [实现一个 memoize 函数](https://github.com/Tcdian/keep/issues/20)
+
 ### 20190902 - 20190908
 
 - [x] [114. Flatten Binary Tree to Linked List](https://github.com/Tcdian/keep/issues/15)
