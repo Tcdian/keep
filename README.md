@@ -12,7 +12,7 @@
 - [x] [322. Coin Change](https://github.com/Tcdian/keep/issues/100)
 - [x] [409. Longest Palindrome](https://github.com/Tcdian/keep/issues/74)
 - [x] [543. Diameter of Binary Tree](https://github.com/Tcdian/keep/issues/101)
-- [ ] [695. Max Area of Island](https://github.com/Tcdian/keep/issues/121)
+- [x] [695. Max Area of Island](https://github.com/Tcdian/keep/issues/121)
 - [x] [836. Rectangle Overlap](https://github.com/Tcdian/keep/issues/72)
 - [x] [876. Middle of the Linked List](https://github.com/Tcdian/keep/issues/77)
 - [x] [892. Surface Area of 3D Shapes](https://github.com/Tcdian/keep/issues/83)
