@@ -11,7 +11,7 @@
 - [x] [8. String to Integer (atoi)](https://github.com/Tcdian/keep/issues/95)
 - [x] [42. Trapping Rain Water](https://github.com/Tcdian/keep/issues/96)
 - [x] [460. LFU Cache](https://github.com/Tcdian/keep/issues/97)
-- [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
+- [x] [72. Edit Distance](https://github.com/Tcdian/keep/issues/98)
 - [x] [《程序员面试金典（第 6 版）》01.07. 旋转矩阵](https://github.com/Tcdian/keep/issues/103)
 - [x] [《剑指 Offer（第 2 版）》13. 机器人的运动范围](https://github.com/Tcdian/keep/issues/104)
 - [x] [22. Generate Parentheses](https://github.com/Tcdian/keep/issues/105)
