@@ -4,6 +4,7 @@
 
 ### 2020.04
 
+- [x] [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/Tcdian/keep/issues/124)
 - [x] [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/Tcdian/keep/issues/91)
 - [x] [289. Game of Life](https://github.com/Tcdian/keep/issues/92)
 - [x] [1013. Partition Array Into Three Parts With Equal Sum](https://github.com/Tcdian/keep/issues/93)
