@@ -4,7 +4,6 @@
 
 ### 2020.04
 
-- [x] [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/Tcdian/keep/issues/124)
 - [x] [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/Tcdian/keep/issues/91)
 - [x] [289. Game of Life](https://github.com/Tcdian/keep/issues/92)
 - [x] [1013. Partition Array Into Three Parts With Equal Sum](https://github.com/Tcdian/keep/issues/93)
@@ -30,6 +29,14 @@
 - [x] [11. Container With Most Water](https://github.com/Tcdian/keep/issues/119)
 - [x] [64. Minimum Path Sum](https://github.com/Tcdian/keep/issues/120)
 - [x] [33. Search in Rotated Sorted Array](https://github.com/Tcdian/keep/issues/123)
+- [x] [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/Tcdian/keep/issues/124)
+- [x] [1248. Count Number of Nice Subarrays](https://github.com/Tcdian/keep/issues/125)
+- [x] [199. Binary Tree Right Side View](https://github.com/Tcdian/keep/issues/126)
+- [x] [560. Subarray Sum Equals K](https://github.com/Tcdian/keep/issues/127)
+- [x] [《程序员面试金典（第 6 版）》08.11. 硬币](https://github.com/Tcdian/keep/issues/128)
+- [x] [《剑指 Offer（第 2 版）》51. 数组中的逆序对](https://github.com/Tcdian/keep/issues/129)
+- [x] [146. LRU Cache](https://github.com/Tcdian/keep/issues/130)
+- [x] [46. Permutations](https://github.com/Tcdian/keep/issues/131)
 
 ### 2020.03
 
