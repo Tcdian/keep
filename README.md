@@ -2,6 +2,11 @@
 
 ## 今天不想做，所以才去做。
 
+### 2020.
+
+-   [x] [21. Merge Two Sorted Lists](https://github.com/Tcdian/keep/issues/138)
+-   [x] [278. First Bad Version](https://github.com/Tcdian/keep/issues/139)
+
 ### 2020.04
 
 -   [x] [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/Tcdian/keep/issues/91)
@@ -43,8 +48,6 @@
 -   [x] [1095. Find in Mountain Array](https://github.com/Tcdian/keep/issues/135)
 -   [x] [124. Binary Tree Maximum Path Sum](https://github.com/Tcdian/keep/issues/136)
 -   [x] [202. Happy Number](https://github.com/Tcdian/keep/issues/137)
--   [x] [21. Merge Two Sorted Lists](https://github.com/Tcdian/keep/issues/138)
--   [x] [278. First Bad Version](https://github.com/Tcdian/keep/issues/139)
 
 ### 2020.03
 
