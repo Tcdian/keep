@@ -37,6 +37,14 @@
 -   [x] [《剑指 Offer（第 2 版）》51. 数组中的逆序对](https://github.com/Tcdian/keep/issues/129)
 -   [x] [146. LRU Cache](https://github.com/Tcdian/keep/issues/130)
 -   [x] [46. Permutations](https://github.com/Tcdian/keep/issues/131)
+-   [x] [1143. Longest Common Subsequence](https://github.com/Tcdian/keep/issues/132)
+-   [x] [221. Maximal Square](https://github.com/Tcdian/keep/issues/133)
+-   [x] [《剑指 Offer（第 2 版）》56 - I. 数组中数字出现的次数](https://github.com/Tcdian/keep/issues/134)
+-   [x] [1095. Find in Mountain Array](https://github.com/Tcdian/keep/issues/135)
+-   [x] [124. Binary Tree Maximum Path Sum](https://github.com/Tcdian/keep/issues/136)
+-   [x] [202. Happy Number](https://github.com/Tcdian/keep/issues/137)
+-   [x] [21. Merge Two Sorted Lists](https://github.com/Tcdian/keep/issues/138)
+-   [x] [278. First Bad Version](https://github.com/Tcdian/keep/issues/139)
 
 ### 2020.03
 
