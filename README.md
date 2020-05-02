@@ -6,6 +6,7 @@
 
 -   [x] [21. Merge Two Sorted Lists](https://github.com/Tcdian/keep/issues/138)
 -   [x] [278. First Bad Version](https://github.com/Tcdian/keep/issues/139)
+-   [x] [3. Longest Substring Without Repeating Characters](https://github.com/Tcdian/keep/issues/140)
 
 ### 2020.04
 
