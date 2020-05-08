@@ -2,11 +2,20 @@
 
 ## 今天不想做，所以才去做。
 
-### 2020.
+### 2020.05
 
 -   [x] [21. Merge Two Sorted Lists](https://github.com/Tcdian/keep/issues/138)
 -   [x] [278. First Bad Version](https://github.com/Tcdian/keep/issues/139)
 -   [x] [3. Longest Substring Without Repeating Characters](https://github.com/Tcdian/keep/issues/140)
+-   [x] [771. Jewels and Stones](https://github.com/Tcdian/keep/issues/141)
+-   [x] [53. Maximum Subarray](https://github.com/Tcdian/keep/issues/142)
+-   [x] [383. Ransom Note](https://github.com/Tcdian/keep/issues/143)
+-   [x] [45. Jump Game II](https://github.com/Tcdian/keep/issues/144)
+-   [x] [98. Validate Binary Search Tree](https://github.com/Tcdian/keep/issues/145)
+-   [x] [387. First Unique Character in a String](https://github.com/Tcdian/keep/issues/146)
+-   [x] [983. Minimum Cost For Tickets](https://github.com/Tcdian/keep/issues/147)
+-   [x] [572. Subtree of Another Tree](https://github.com/Tcdian/keep/issues/148)
+-   [x] [993. Cousins in Binary Tree](https://github.com/Tcdian/keep/issues/149)
 
 ### 2020.04
 
