@@ -16,6 +16,22 @@
 -   [x] [983. Minimum Cost For Tickets](https://github.com/Tcdian/keep/issues/147)
 -   [x] [572. Subtree of Another Tree](https://github.com/Tcdian/keep/issues/148)
 -   [x] [993. Cousins in Binary Tree](https://github.com/Tcdian/keep/issues/149)
+-   [x] [69. Sqrt(x)](https://github.com/Tcdian/keep/issues/150)
+-   [x] [367. Valid Perfect Square](https://github.com/Tcdian/keep/issues/151)
+-   [x] [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Tcdian/keep/issues/152)
+-   [x] [50. Pow(x, n)](https://github.com/Tcdian/keep/issues/153)
+-   [x] [733. Flood Fill](https://github.com/Tcdian/keep/issues/154)
+-   [x] [155. Min Stack](https://github.com/Tcdian/keep/issues/155)
+-   [x] [540. single element in a sorted array](https://github.com/Tcdian/keep/issues/156)
+-   [x] [102. Binary Tree Level Order Traversal](https://github.com/Tcdian/keep/issues/157)
+-   [x] [402. Remove K Digits](https://github.com/Tcdian/keep/issues/158)
+-   [x] [136. Single Number](https://github.com/Tcdian/keep/issues/159)
+-   [x] [208. Implement Trie (Prefix Tree)](https://github.com/Tcdian/keep/issues/160)
+-   [x] [820. Short Encoding of Words](https://github.com/Tcdian/keep/issues/161)
+-   [x] [560. Subarray Sum Equals K](https://github.com/Tcdian/keep/issues/162)
+-   [x] [918. Maximum Sum Circular Subarray](https://github.com/Tcdian/keep/issues/163)
+-   [x] [25. Reverse Nodes in k-Group](https://github.com/Tcdian/keep/issues/164)
+-   [x] [328. Odd Even Linked List](https://github.com/Tcdian/keep/issues/165)
 
 ### 2020.04
 
