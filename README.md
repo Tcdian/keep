@@ -32,6 +32,17 @@
 -   [x] [918. Maximum Sum Circular Subarray](https://github.com/Tcdian/keep/issues/163)
 -   [x] [25. Reverse Nodes in k-Group](https://github.com/Tcdian/keep/issues/164)
 -   [x] [328. Odd Even Linked List](https://github.com/Tcdian/keep/issues/165)
+-   [x] [152. Maximum Product Subarray](https://github.com/Tcdian/keep/issues/166)
+-   [x] [567. Permutation in String](https://github.com/Tcdian/keep/issues/167)
+-   [x] [680. Valid Palindrome II](https://github.com/Tcdian/keep/issues/168)
+-   [x] [901. Online Stock Span](https://github.com/Tcdian/keep/issues/169)
+-   [x] [5. Longest Palindromic Substring](https://github.com/Tcdian/keep/issues/170)
+-   [x] [230. Kth Smallest Element in a BST](https://github.com/Tcdian/keep/issues/171)
+-   [x] [1277. Count Square Submatrices with All Ones](https://github.com/Tcdian/keep/issues/172)
+-   [x] [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/Tcdian/keep/issues/173)
+-   [x] [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Tcdian/keep/issues/174)
+-   [x] [451. Sort Characters By Frequency](https://github.com/Tcdian/keep/issues/175)
+-   [x] [76. Minimum Window Substring](https://github.com/Tcdian/keep/issues/176)
 
 ### 2020.04
 
