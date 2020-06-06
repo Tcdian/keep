@@ -2,6 +2,17 @@
 
 ## 今天不想做，所以才去做。
 
+### 2020.06
+
+-   [x] [1431. Kids With the Greatest Number of Candies](https://github.com/Tcdian/keep/issues/190)
+-   [x] [226. Invert Binary Tree](https://github.com/Tcdian/keep/issues/191)
+-   [x] [237. Delete Node in a Linked List](https://github.com/Tcdian/keep/issues/192)
+-   [x] [837. New 21 Game](https://github.com/Tcdian/keep/issues/193)
+-   [x] [1029. Two City Scheduling](https://github.com/Tcdian/keep/issues/194)
+-   [x] [54. Spiral Matrix](https://github.com/Tcdian/keep/issues/195)
+-   [x] [528. Random Pick with Weight](https://github.com/Tcdian/keep/issues/196)
+-   [x] [128. Longest Consecutive Sequence](https://github.com/Tcdian/keep/issues/197)
+
 ### 2020.05
 
 -   [x] [21. Merge Two Sorted Lists](https://github.com/Tcdian/keep/issues/138)
@@ -54,6 +65,8 @@
 -   [x] [198. House Robber](https://github.com/Tcdian/keep/issues/185)
 -   [x] [207. Course Schedule](https://github.com/Tcdian/keep/issues/186)
 -   [x] [84. Largest Rectangle in Histogram](https://github.com/Tcdian/keep/issues/187)
+-   [x] [101. Symmetric Tree](https://github.com/Tcdian/keep/issues/188)
+-   [x] [973. K Closest Points to Origin](https://github.com/Tcdian/keep/issues/189)
 
 ### 2020.04
 
