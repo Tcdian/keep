@@ -12,6 +12,20 @@
 -   [x] [54. Spiral Matrix](https://github.com/Tcdian/keep/issues/195)
 -   [x] [528. Random Pick with Weight](https://github.com/Tcdian/keep/issues/196)
 -   [x] [128. Longest Consecutive Sequence](https://github.com/Tcdian/keep/issues/197)
+-   [x] [406. Queue Reconstruction by Height](https://github.com/Tcdian/keep/issues/198)
+-   [x] [126. Word Ladder II](https://github.com/Tcdian/keep/issues/199)
+-   [x] [518. Coin Change 2](https://github.com/Tcdian/keep/issues/200)
+-   [x] [990. Satisfiability of Equality Equations](https://github.com/Tcdian/keep/issues/201)
+-   [x] [231. Power of Two](https://github.com/Tcdian/keep/issues/202)
+-   [x] [《剑指 Offer（第 2 版）》46. 把数字翻译成字符串](https://github.com/Tcdian/keep/issues/203)
+-   [x] [392. Is Subsequence](https://github.com/Tcdian/keep/issues/204)
+-   [x] [9. Palindrome Number](https://github.com/Tcdian/keep/issues/205)
+-   [x] [35. Search Insert Position](https://github.com/Tcdian/keep/issues/206)
+-   [x] [739. Daily Temperatures](https://github.com/Tcdian/keep/issues/207)
+-   [x] [75. Sort Colors](https://github.com/Tcdian/keep/issues/208)
+-   [x] [15. 3Sum](https://github.com/Tcdian/keep/issues/209)
+-   [x] [380. Insert Delete GetRandom O(1)](https://github.com/Tcdian/keep/issues/210)
+-   [x] [70. Climbing Stairs](https://github.com/Tcdian/keep/issues/211)
 
 ### 2020.05
 
