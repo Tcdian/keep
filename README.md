@@ -26,6 +26,18 @@
 -   [x] [15. 3Sum](https://github.com/Tcdian/keep/issues/209)
 -   [x] [380. Insert Delete GetRandom O(1)](https://github.com/Tcdian/keep/issues/210)
 -   [x] [70. Climbing Stairs](https://github.com/Tcdian/keep/issues/211)
+-   [x] [368. Largest Divisible Subset](https://github.com/Tcdian/keep/issues/212)
+-   [x] [1300. Sum of Mutated Array Closest to Target](https://github.com/Tcdian/keep/issues/213)
+-   [x] [1482. Minimum Number of Days to Make m Bouquets](https://github.com/Tcdian/keep/issues/214)
+-   [x] [14. Longest Common Prefix](https://github.com/Tcdian/keep/issues/215)
+-   [x] [700. Search in a Binary Search Tree](https://github.com/Tcdian/keep/issues/216)
+-   [x] [1014. Best Sightseeing Pair](https://github.com/Tcdian/keep/issues/217)
+-   [x] [130. Surrounded Regions](https://github.com/Tcdian/keep/issues/218)
+-   [x] [1028. Recover a Tree From Preorder Traversal](https://github.com/Tcdian/keep/issues/219)
+-   [x] [275. H-Index II](https://github.com/Tcdian/keep/issues/220)
+-   [x] [125. Valid Palindrome](https://github.com/Tcdian/keep/issues/221)
+-   [x] [1044. Longest Duplicate Substring](https://github.com/Tcdian/keep/issues/222)
+-   [x] [10. Regular Expression Matching](https://github.com/Tcdian/keep/issues/223)
 
 ### 2020.05
 
