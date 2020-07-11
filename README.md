@@ -2,6 +2,23 @@
 
 ## 今天不想做，所以才去做。
 
+### 2020.07
+
+-   [x] [718. Maximum Length of Repeated Subarray](https://github.com/Tcdian/keep/issues/241)
+-   [x] [441. Arranging Coins](https://github.com/Tcdian/keep/issues/242)
+-   [x] [378. Kth Smallest Element in a Sorted Matrix](https://github.com/Tcdian/keep/issues/243)
+-   [x] [378. Kth Smallest Element in a Sorted Matrix](https://github.com/Tcdian/keep/issues/243)
+-   [x] [108. Convert Sorted Array to Binary Search Tree](https://github.com/Tcdian/keep/issues/244)
+-   [x] [107. Binary Tree Level Order Traversal II](https://github.com/Tcdian/keep/issues/245)
+-   [x] [63. Unique Paths II](https://github.com/Tcdian/keep/issues/246)
+-   [x] [66. Plus One](https://github.com/Tcdian/keep/issues/247)
+-   [x] [112. Path Sum](https://github.com/Tcdian/keep/issues/248)
+-   [x] [463. Island Perimeter](https://github.com/Tcdian/keep/issues/249)
+-   [x] [程序员面试金典（第 6 版）》16.11. 跳水板](https://github.com/Tcdian/keep/issues/250)
+-   [x] [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/Tcdian/keep/issues/251)
+-   [x] [430. Flatten a Multilevel Doubly Linked List](https://github.com/Tcdian/keep/issues/252)
+-   [x] [315. Count of Smaller Numbers After Self](https://github.com/Tcdian/keep/issues/253)
+
 ### 2020.06
 
 -   [x] [1431. Kids With the Greatest Number of Candies](https://github.com/Tcdian/keep/issues/190)
@@ -38,6 +55,23 @@
 -   [x] [125. Valid Palindrome](https://github.com/Tcdian/keep/issues/221)
 -   [x] [1044. Longest Duplicate Substring](https://github.com/Tcdian/keep/issues/222)
 -   [x] [10. Regular Expression Matching](https://github.com/Tcdian/keep/issues/223)
+-   [x] [60. Permutation Sequence](https://github.com/Tcdian/keep/issues/224)
+-   [x] [174. Dungeon Game](https://github.com/Tcdian/keep/issues/225)
+-   [x] [《程序员面试金典（第 6 版）》16.18. 模式匹配](https://github.com/Tcdian/keep/issues/226)
+-   [x] [137. 只出现一次的数字 II](https://github.com/Tcdian/keep/issues/227)
+-   [x] [67. Add Binary](https://github.com/Tcdian/keep/issues/228)
+-   [x] [222. Count Complete Tree Nodes](https://github.com/Tcdian/keep/issues/229)
+-   [x] [16. 3Sum Closest](https://github.com/Tcdian/keep/issues/230)
+-   [x] [96. Unique Binary Search Trees](https://github.com/Tcdian/keep/issues/231)
+-   [x] [209. Minimum Size Subarray Sum](https://github.com/Tcdian/keep/issues/232)
+-   [x] [332. Reconstruct Itinerary](https://github.com/Tcdian/keep/issues/233)
+-   [x] [139. Word Break](https://github.com/Tcdian/keep/issues/234)
+-   [x] [41. First Missing Positive](https://github.com/Tcdian/keep/issues/235)
+-   [x] [279. Perfect Squares](https://github.com/Tcdian/keep/issues/236)
+-   [x] [215. Kth Largest Element in an Array](https://github.com/Tcdian/keep/issues/237)
+-   [x] [62. Unique Paths](https://github.com/Tcdian/keep/issues/238)
+-   [x] [剑指 Offer 09. 用两个栈实现队列](https://github.com/Tcdian/keep/issues/239)
+-   [x] [212. Word Search II](https://github.com/Tcdian/keep/issues/240)
 
 ### 2020.05
 
