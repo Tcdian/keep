@@ -2,6 +2,10 @@
 
 ## 今天不想做，所以才去做。
 
+### 2020.08
+
+-   [x] [632. Smallest Range Covering Elements from K Lists](https://github.com/Tcdian/keep/issues/279)
+
 ### 2020.07
 
 -   [x] [718. Maximum Length of Repeated Subarray](https://github.com/Tcdian/keep/issues/241)
@@ -36,6 +40,13 @@
 -   [x] [1025. Divisor Game](https://github.com/Tcdian/keep/issues/269)
 -   [x] [797. All Paths From Source to Target](https://github.com/Tcdian/keep/issues/270)
 -   [x] [410. Split Array Largest Sum](https://github.com/Tcdian/keep/issues/271)
+-   [x] [329. Longest Increasing Path in a Matrix](https://github.com/Tcdian/keep/issues/272)
+-   [x] [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Tcdian/keep/issues/273)
+-   [x] [104. Maximum Depth of Binary Tree](https://github.com/Tcdian/keep/issues/274)
+-   [x] [621. Task Scheduler](https://github.com/Tcdian/keep/issues/275)
+-   [x] [343. Integer Break](https://github.com/Tcdian/keep/issues/276)
+-   [x] [140. Word Break II](https://github.com/Tcdian/keep/issues/277)
+-   [x] [《程序员面试金典（第 6 版）》08.03. 魔术索引](https://github.com/Tcdian/keep/issues/278)
 
 ### 2020.06
 
