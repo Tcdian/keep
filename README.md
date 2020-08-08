@@ -5,6 +5,15 @@
 ### 2020.08
 
 -   [x] [632. Smallest Range Covering Elements from K Lists](https://github.com/Tcdian/keep/issues/279)
+-   [x] [520. Detect Capital](https://github.com/Tcdian/keep/issues/280)
+-   [x] [114. Flatten Binary Tree to Linked List](https://github.com/Tcdian/keep/issues/281)
+-   [x] [415. Add Strings](https://github.com/Tcdian/keep/issues/282)
+-   [x] [337. House Robber III](https://github.com/Tcdian/keep/issues/283)
+-   [x] [211. Add and Search Word - Data structure design](https://github.com/Tcdian/keep/issues/284)
+-   [x] [336. Palindrome Pairs](https://github.com/Tcdian/keep/issues/285)
+-   [x] [442. Find All Duplicates in an Array](https://github.com/Tcdian/keep/issues/286)
+-   [x] [987. Vertical Order Traversal of a Binary Tree](https://github.com/Tcdian/keep/issues/287)
+-   [x] [99. Recover Binary Search Tree](https://github.com/Tcdian/keep/issues/288)
 
 ### 2020.07
 
